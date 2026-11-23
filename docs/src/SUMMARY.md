@@ -231,5 +231,6 @@
   - [Performance](./performance.md)
   - [UI/UX Checklist](./development/ui-checklist.md)
   - [Glossary](./development/glossary.md)
+  - [Spec: ACP Server Extraction](./development/acp-server-extraction.md)
 - [Release Notes](./development/release-notes.md)
 - [Debugging Crashes](./development/debugging-crashes.md)
